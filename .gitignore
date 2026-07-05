@@ -1,0 +1,15 @@
+# Virtual environment
+CarPriceVenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (optional - keep or remove based on size)
+*.pkl
+
+# VS Code settings
+.vscode/
